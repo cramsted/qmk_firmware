@@ -16,6 +16,10 @@
     "split": {
         "soft_serial_pin": "D0"
     },
+    "macros": [
+        [{"action":"tap", "keycodes": ["LALT", "LCTL", "PAUSE"]}
+        ]
+    ],
     "processor": "atmega32u4",
     "bootloader": "caterina",
     "community_layouts": ["split_3x5_3"],
