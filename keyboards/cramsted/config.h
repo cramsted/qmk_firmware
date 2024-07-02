@@ -24,6 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define SPLIT_HAND_PIN D4
 
 #define TAPPING_TERM 160
+#define TAPPING_TERM_PER_KEY
 
 /*
  * Feature disable options
